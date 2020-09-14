@@ -1,6 +1,6 @@
 # heads-and-tails
 
-Simple console game of guessing the side of the coin
+Simple Node.js console game of guessing the side of the coin
 
 ## Install
 

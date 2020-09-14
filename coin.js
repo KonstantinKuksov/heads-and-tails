@@ -1,0 +1,1 @@
+module.exports = ['heads', 'tails'];
